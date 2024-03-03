@@ -3,6 +3,13 @@ A Scrap Mechanic DLL mod which improves the quality of cube maps.
 
 This mod works with Scrap Mechanic Version 0.6.6.729
 
+# Before / After
+
+<p align="center" width="100%">
+    <img width="49%" src="https://github.com/QuestionableM/SM-BetterCubeMaps/blob/main/Images/cubemaps_before.png">
+    <img width="49%" src="https://github.com/QuestionableM/SM-BetterCubeMaps/blob/main/Images/cubemaps_after.png">
+</p>
+
 # How to download and enable the DLL mod
 
 There are 2 ways to enable the BetterCubeMaps module:
