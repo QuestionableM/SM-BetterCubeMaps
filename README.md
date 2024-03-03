@@ -1,6 +1,8 @@
 # BetterCubeMaps
 A Scrap Mechanic DLL mod which improves the quality of cube maps.
 
+This mod works with Scrap Mechanic Version 0.6.6.729
+
 # How to download and enable the DLL mod
 
 There are 2 ways to enable the BetterCubeMaps module:
