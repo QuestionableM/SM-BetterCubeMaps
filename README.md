@@ -1,4 +1,4 @@
-# BetterCubeMaps
+# BetterCubeMaps (No longer maintained)
 A Scrap Mechanic DLL mod which improves the quality of cube maps.<br/>
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/QuestionableM/SM-BetterCubeMaps/total)
