@@ -3,7 +3,7 @@ A Scrap Mechanic DLL mod which improves the quality of cube maps.<br/>
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/QuestionableM/SM-BetterCubeMaps/total)
 
-This mod works with Scrap Mechanic Version 0.6.6.729
+### Supported version: 0.6.6.729
 
 # Before / After
 
